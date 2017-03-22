@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Smart Inspection
 
 You can use the [editor on GitHub](https://github.com/RKperla/rkperla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
